@@ -1,4 +1,4 @@
-package com.company.array;
+package com.arvin.array;
 
 public class SearchRange {
     public static void main(String[] args) {

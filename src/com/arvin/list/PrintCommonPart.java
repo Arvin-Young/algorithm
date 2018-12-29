@@ -1,4 +1,4 @@
-package com.company.list;
+package com.arvin.list;
 
 public class PrintCommonPart {
     public static void main(String[] args) {
